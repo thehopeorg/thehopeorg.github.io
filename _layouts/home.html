@@ -4,5 +4,8 @@ layout: archive
 
 {{ content }}
 
-{% for post in paginator.posts %} {% include archive-single.html %} {% endfor %}
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
 {% include paginator.html %}
