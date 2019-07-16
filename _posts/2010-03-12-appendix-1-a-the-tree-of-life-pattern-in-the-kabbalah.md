@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Appendix 1-A: The Tree of Life Pattern in the Kabbalah"
 author: Yitzhaq Hayut-Man, Ph.D
 date: 2010-03-12 7:05:00 +0200

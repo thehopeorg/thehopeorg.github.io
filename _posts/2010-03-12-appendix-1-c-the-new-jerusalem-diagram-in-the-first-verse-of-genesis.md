@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Appendix 1-C: The New Jerusalem Diagram in the First Verse of Genesis"
 author: Yitzhaq Hayut-Man, Ph.D
 date: 2010-03-12 7:05:00 +0200

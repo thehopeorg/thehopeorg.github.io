@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Appendix 1-B: Worlds & Multidimensions of Genesis"
 author: Yitzhaq Hayut-Man, Ph.D
 date: 2010-03-12 7:05:00 +0200

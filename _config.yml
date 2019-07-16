@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
 title: "TheHope.org"
 title_separator: "-"
-name: "Your Name"
+name: "Yitzhaq Hayut-Man"
 description: "TheHope.org website WIP description."
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -281,5 +281,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
