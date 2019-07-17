@@ -9,13 +9,11 @@ categories: regenesis
 
 The New Jerusalem Diagram (NJD) of ancient Cosmology; First hint of the NJD in the number of letters in the 1st word and 1st verse of Genesis enfold the NJD.
 
+[https://www.thehope.org/regenesis/appendix-1-c-the-new-jerusalem-diagram-in-the-first-verse-of-genesis/](https://www.thehope.org/regenesis/appendix-1-c-the-new-jerusalem-diagram-in-the-first-verse-of-genesis/)
+
 <img src="/assets/diagram.jpg" alt="diagram"/>
 
-the-new-jerusalem-diagram-in-the-first-verse-of-genesis
-
-The Re-GENESIS Project, **Appendix 1-C:**
-
-### The New Jerusalem Diagram
+The New Jerusalem Diagram
 
 ### in the First Verse of Genesis
 
@@ -47,5 +45,3 @@ Additional articles about this diagram:
 The two articles about the Diagram on this site have been copied to a book-size page with many more resources, at:
 
 [http://blog.world-mysteries.com/science/the-new-jerusalem-diagram/](http://blog.world-mysteries.com/science/the-new-jerusalem-diagram/)
-
-Article viewed **8095** times
