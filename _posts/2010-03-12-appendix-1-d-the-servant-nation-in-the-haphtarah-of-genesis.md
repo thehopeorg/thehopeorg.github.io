@@ -1,13 +1,13 @@
 ---
 layout: single
 classes: wide
-title:  "Appendix 1-D: The Servant Nation in the Haphtarah of Genesis"
-author: Yitzhaq Hayut-Man, Ph.D
-date:   2010-03-12 7:05:00 +0200
+title: "Appendix 1-D: The Servant Nation in the Haphtarah of Genesis"
+author: "Yitzhaq Hayut-Man, Ph.D"
+date: 2010-03-12 7:05:00 +0200
 categories: regenesis
 ---
 
-How the Servant Nation idea is already connected to the Creation narrative through Haphtarah of Isaiah 42-43.
+How the Servant Nation idea is already connected to the Creation narrative through Haphtarah of Isaiah 42-43
 
 [https://www.thehope.org/regenesis/appendix-1-d-the-servant-nation-in-the-haphtarah-of-genesis/](https://www.thehope.org/regenesis/appendix-1-d-the-servant-nation-in-the-haphtarah-of-genesis/)
 
@@ -15,7 +15,7 @@ How the Servant Nation idea is already connected to the Creation narrative throu
 
 I have already written about the Torah being actually [written in future tense](http://www.global-report.com/thehope/a78-re-genesis-now-project-preface-introduction), rather than a past history - and thus forming a prophecy for our time, and also written about the apparent three stories of Creation as corresponding to the three distinct levels of Being –  **Beri&#39;ah, Yeẓirah**  and  **Ạssiyah**. There are also appendices about the Tree of Life Pattern, the Multidimensional structure of Genesis and about the [New Jerusalem Diagram](http://www.global-report.com/thehope/a83-1-c-the-new-jerusalem-diagram-in-the-first-verse-of-genesis) embedded within the first verse of Genesis. Having raised the cause of the Universal New Israel as the global "Servant Nation", we can check how the ideas of the Servant Nation and the Messiah connect with the first Portion of _Bereshit_/Genesis.
 
-There is indeed a _Midrash_ that claims that the "Spirit of (or Wind from) God hovering over the (sur)face of the waters" (Gen 1:2, literal translation, respecting the original tense) is &#39;the Spirit of the Messiah&#39; (_Bereshit Raba_, 2:4).1
+There is indeed a _Midrash_ that claims that the "Spirit of (or Wind from) God hovering over the (sur)face of the waters" (Gen 1:2, literal translation, respecting the original tense) is 'the Spirit of the Messiah' (_Bereshit Raba_, 2:4).1
 
 The main connection is through the  **Haphtarah - ** the Jewish ritual of reading sections from the writings of the prophets on Sabbaths and festivals after the reading from the Torah. The _Haphtarah _text_ _is brought to amplify a certain point in the text of the Torah portion, a point that is explicit or implicit.
 

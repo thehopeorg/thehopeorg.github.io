@@ -7,7 +7,7 @@ date: 2010-03-12 7:05:00 +0200
 categories: regenesis
 ---
 
-Genesis as multidimensional text; Sefer Yetzirah and Parashat Bereshit; The Name of YHWH as a Multidimensional Ladder
+### **Genesis as multidimensional text; Sefer Yetzirah and Parashat Bereshit; The Name of YHWH as a Multidimensional Ladder**
 
 [https://www.thehope.org/regenesis/appendix-1-b-worlds-multidimensions-of-genesis/](https://www.thehope.org/regenesis/appendix-1-b-worlds-multidimensions-of-genesis/)
 

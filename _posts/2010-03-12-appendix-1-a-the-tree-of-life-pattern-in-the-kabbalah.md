@@ -7,7 +7,7 @@ date: 2010-03-12 7:05:00 +0200
 categories: regenesis
 ---
 
-### **The Tree of the Sefirot as the Tree of Life; The 2D diagram as projection of the 5-D world of Sefer Tezirah; The parallel scheme of inter-human communications.**
+### **The Tree of the Sefirot as the Tree of Life; The 2D diagram as projection of the 5-D world of Sefer Tezirah; The parallel scheme of inter-human communications**
 
 [https://www.thehope.org/regenesis/appendix-1-a-the-tree-of-life-pattern-in-the-kabbalah/](https://www.thehope.org/regenesis/appendix-1-a-the-tree-of-life-pattern-in-the-kabbalah/)
 
