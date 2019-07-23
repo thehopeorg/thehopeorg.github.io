@@ -35,7 +35,7 @@ The **Academies of S**he**m** and **Ẹ**ve**r**
 
 The name "**N**o'a**ḥ**" (**נח**) and **Ḥ**e**N** The sentence "and **N**oa**ḥ** (**ח"ן**) - "**the Hidden Knowledge**"
 
-We have seen that in the name " **N** o'a **ḥ**" (**נח**) there is a hint about **Ḥ** e **N** (**ח"ן**) - "the Hidden Knowledge" (_Ḥokhmat haNistar_) and, indeed, there are many secrets hidden within the name " **N** o'a **ḥ**" and its Gematria value.
+We have seen that in the name " **N**o'a**ḥ**" (**נח**) there is a hint about **Ḥ**e**N** (**ח"ן**) - "the Hidden Knowledge" (_Ḥokhmat haNistar_) and, indeed, there are many secrets hidden within the name " **N**o'a*ḥ**" and its Gematria value.
 
 In many Hassidic texts, **Ḥ** e **N** is the occult wisdom. For example, in the first teaching of Rabbi Nachman of Breslow's collection (_Liqute Moharan_) is that the **Ḥ** e **N** (**ח"ן**) is the capacity to bring the prayer to be accepted. The letter **Ḥ** et (**ח**) signifies vitality (**Ḥ** _a_ **yut**) and Wisdom (**Ḥ** _o_ **k** _h_ **m** _a_ **h**), the Sun and the Intellect, whereas the letter **N** un (**נ** ון) signifies the Sephirah of Malkhut (the Feminine) and the Moon. The secret lies in joining them together through prayer and the study of the inner domain of the Torah.
 
